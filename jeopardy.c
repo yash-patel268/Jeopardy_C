@@ -30,7 +30,7 @@ int main(int argc, char *argv[])
     initialize_game();
     printf("Welcome to Jeopardy!\n");
     printf("In order to answer questions within this game the answer must be given as a question.\n");
-    printf("the structure shall be: what is 'answer'");
+    printf("the structure shall be: what is 'answer'\n");
 
     // Prompt for players names
     // initialize each of the players in the array
